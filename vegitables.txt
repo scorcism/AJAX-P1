@@ -1,0 +1,8 @@
+carrot
+broccoli
+asparagus
+cauliflower
+corn
+cucumber
+eggplant
+green pepper
